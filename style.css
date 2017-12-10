@@ -1,0 +1,132 @@
+body{
+background-color: #8291C1;
+font-family: 'Open Sans';
+margin:0;
+padding:0;
+height:100%;
+}
+
+.container{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.header{
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: -2px 2px 3px #666, 1px -1px 2px #000;
+  width:200px;
+  margin:auto;
+  background-color:   #2D3A66;
+  border-radius: 5px;
+}
+
+.nav{
+  color:white;
+
+}
+
+
+.option{
+  float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 2px solid #444444;
+	opacity: 0.8;
+}
+
+.option:hover
+{
+	background-color: rgba(102,4,4, .5);
+	cursor: solid;
+}
+
+
+.border-l{
+  border-left: 2px solid #444444;
+}
+
+a:link {
+      color: white;
+
+      text-decoration: none;
+  }
+
+a:visited {
+      color: white;
+      text-decoration: none;
+  }
+
+  a:hover {
+      color: white;
+      text-decoration: underline;
+  }
+
+  a:active {
+      color: white;
+      text-decoration: underline;
+  }
+
+
+
+.title{
+border-radius: 5px;
+color: white;
+text-align: center;
+background-color: #2D3A66;
+width:400px;
+margin: auto;
+
+
+}
+
+.img{
+  float: left;
+
+}
+
+.drukarka{
+width:400px;
+height:290px;
+border-color: #2D3A66;
+border-width: 5px;
+border-style: solid;
+
+}
+
+.border{
+border-radius: 3px;
+}
+
+.text{
+color:white;
+text-indent: 25px;
+}
+
+.suprise{
+  color: white;
+  	text-align: center;
+  	padding: 1px;
+  	font-size: 19px;
+  	background-color: #742E17;
+  	border-radius: 10px;
+
+}
+
+.text2{
+  color: white;
+}
+
+.footer{
+  clear: both;
+  color: white;
+  background-color:  #2D3A66;
+  height: auto;
+  text-align: center;
+  border-radius: 3px;
+}
